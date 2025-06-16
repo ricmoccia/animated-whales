@@ -30,4 +30,16 @@ Il progetto è stato sviluppato utilizzando:
 ---
 
 ## 📂 Struttura del progetto
+animated-whales/
+├── index.html # Pagina HTML principale
+├── script.js # Script JS con logica D3
+├── data.json # Dati multivariati
+├── images/
+│ └── whale.png # Immagine della balena (silhouette)
+└── README.md # Questo file
 
+## ▶️ Come visualizzare
+
+1. Clona o scarica il progetto
+2. Apri `index.html` con un browser moderno (es. Chrome o Firefox)
+3. Clicca sulle balene per vedere l’animazione
