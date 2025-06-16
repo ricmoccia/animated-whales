@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "profondita1": 30,
+    "profondita2": 60,
+    "profondita3": 90
+  },
+  {
+    "id": 2,
+    "profondita1": 45,
+    "profondita2": 20,
+    "profondita3": 70
+  },
+  {
+    "id": 3,
+    "profondita1": 20,
+    "profondita2": 80,
+    "profondita3": 40
+  },
+  {
+    "id": 4,
+    "profondita1": 60,
+    "profondita2": 40,
+    "profondita3": 50
+  },
+  {
+    "id": 5,
+    "profondita1": 90,
+    "profondita2": 70,
+    "profondita3": 20
+  },
+  {
+    "id": 6,
+    "profondita1": 10,
+    "profondita2": 90,
+    "profondita3": 60
+  },
+  {
+    "id": 7,
+    "profondita1": 50,
+    "profondita2": 50,
+    "profondita3": 30
+  },
+  {
+    "id": 8,
+    "profondita1": 80,
+    "profondita2": 30,
+    "profondita3": 10
+  },
+  {
+    "id": 9,
+    "profondita1": 35,
+    "profondita2": 65,
+    "profondita3": 85
+  },
+  {
+    "id": 10,
+    "profondita1": 25,
+    "profondita2": 55,
+    "profondita3": 75
+  }
+]
