@@ -5,7 +5,7 @@ anno accademico **2024/25**.
 
 ---
 
-## 📌 Tecnologie utilizzate
+## Tecnologie utilizzate
 
 Il progetto è stato sviluppato utilizzando:
 - **JavaScript**
@@ -13,9 +13,7 @@ Il progetto è stato sviluppato utilizzando:
 
 ---
 
-## 📋 Specifiche progetto
-
-> Le seguenti indicazioni sono tratte dalla consegna originale:
+## Specifiche progetto
 
 - Crea un file JSON con dei **dati multivariati**: ci sono 10 data-cases e ogni data-case ha **tre variabili quantitative** i cui valori sono tutti positivi.
 - In base a questi dati, disegna **10 piccole balene** (è sufficiente la silhouette) distribuite **orizzontalmente** nell'area di disegno.
@@ -29,16 +27,8 @@ Il progetto è stato sviluppato utilizzando:
 
 ---
 
-## 📂 Struttura del progetto
-animated-whales/
-├── index.html # Pagina HTML principale
-├── script.js # Script JS con logica D3
-├── data.json # Dati multivariati
-├── images/
-│ └── whale.png # Immagine della balena (silhouette)
-└── README.md # Questo file
 
-## ▶️ Come visualizzare
+## Come visualizzare
 
 1. Clona o scarica il progetto
 2. Apri `index.html` con un browser moderno (es. Chrome o Firefox)
