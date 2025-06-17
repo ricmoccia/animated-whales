@@ -28,8 +28,4 @@ Il progetto è stato sviluppato utilizzando:
 ---
 
 
-## Come visualizzare
 
-1. Clona o scarica il progetto
-2. Apri `index.html` con un browser moderno (es. Chrome o Firefox)
-3. Clicca sulle balene per vedere l’animazione
