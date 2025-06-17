@@ -19,7 +19,7 @@ Il progetto è stato sviluppato utilizzando:
 - In base a questi dati, disegna **10 piccole balene** (è sufficiente la silhouette) distribuite **orizzontalmente** nell'area di disegno
 - Ogni balena corrisponde a un `data-case` e la sua **coordinata Y** iniziale è ricavata dalla **variabile 1**
 - Quando l’utente clicca con il mouse su una balena:
-  - Tutte le balene si spostano a una nuova profondità, corrispondente alla **variabile 2**.
+  - Tutte le balene si spostano a una nuova profondità, corrispondente alla **variabile 2**
   - Al terzo click viene usata la **variabile 3**
   - Al click successivo si torna alla **variabile 1**, e così via ciclicamente
 - I cambi di profondità devono avvenire con **animazioni fluide**
